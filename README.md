@@ -7,7 +7,7 @@ An AI-powered web application that helps small businesses develop their brand im
 ## 🚀 Project Overview
 
 This project uses a **LLaMA-based model** integrated with **Flask** to generate branding recommendations from user descriptions. The UI mimics a ChatGPT-style conversation interface for a familiar and user-friendly experience.
-
+Project Group Video Link : https://streamable.com/qns927
 ---
 
 ## 🛠️ Features
@@ -75,11 +75,11 @@ The backend connects to a running LLaMA server to generate branding suggestions.
 - SaaS platform deployment
 
 ## 👨‍💻 Authors
-- Rishabh Rajkishor Singh
+- Rishabh Rajkishor Singh (2301730290)
 
-- Harshit Rawat
+- Harshit Rawat (2301730305)
 
-- Omm Routray
+- Omm Routray (2301730333)
 
 Project under guidance of Mr. Amar Saraswat\
 🌟 2nd Year AIML Department – College AI Project
