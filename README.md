@@ -7,7 +7,6 @@ An AI-powered web application that helps small businesses develop their brand im
 ## 🚀 Project Overview
 
 This project uses a **LLaMA-based model** integrated with **Flask** to generate branding recommendations from user descriptions. The UI mimics a ChatGPT-style conversation interface for a familiar and user-friendly experience.
-Project Group Video Link : https://streamable.com/qns927
 ---
 
 ## 🛠️ Features
@@ -21,7 +20,7 @@ Project Group Video Link : https://streamable.com/qns927
 
 ## 🖼️ Demo
 
-> Coming soon: Video demo link & screenshots
+> Project Group Video Link : https://streamable.com/qns927
 
 ---
 
